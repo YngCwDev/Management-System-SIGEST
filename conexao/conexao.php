@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$dbname = "gestaoConsumiveis";
+$dbname = "consumiveis";
 $port = 3306;
 
 $conn = new mysqli($host,$user,$pass,$dbname,$port);
